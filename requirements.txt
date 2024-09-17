@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-core
+langchain-ollama
+langchain-community
+python-dotenv

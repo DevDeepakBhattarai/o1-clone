@@ -27,10 +27,6 @@ This project implements a system for generating and testing hypotheses using var
    python main.py
    ```
 
-## Usage
-
-[Provide a brief explanation of how to use the project, including any command-line arguments or configuration options.]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

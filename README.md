@@ -35,6 +35,12 @@ This project implements a system for generating and testing hypotheses using var
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+
+
+## TODO
+Implement the architecture like this 
+https://claude.site/artifacts/6eeba4c1-6a5a-4e4f-87af-36568f402981
+
 ## License
 
 This project is licensed under the MIT License.
